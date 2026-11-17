@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1100&color=58A6FF&center=true&vCenter=true&width=540&lines=Desenvolvedor+Full+Stack+%26+Back-End;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+Java;Construindo+APIs+robustas+e+sistemas+escal%C3%A1veis" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=58A6FF&center=true&vCenter=true&width=640&lines=Desenvolvedor+Full+Stack+%26+Back-End;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+Java;Construindo+APIs+robustas+e+sistemas+escal%C3%A1veis" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,11 +14,9 @@
   <sub>Estudante de Análise e Desenvolvimento de Sistemas em Pernambuco, Brasil · Focado em aplicações web modernas, APIs seguras e automação com dados.</sub>
 </p>
 
----
-
 <h2 align="center">🚀 Sobre mim</h2>
 
-<img align="right" width="245" src="./assets/dev-art.png" alt="Ilustração minimalista de desenvolvedor" />
+<img align="right" width="240" src="./assets/dev-art.png" alt="Ilustração minimalista de desenvolvedor" />
 
 Sou **Thúlio Gabriel** (`thuling`), desenvolvedor de **Pernambuco, Brasil**, graduando em **Análise e Desenvolvimento de Sistemas (ADS)**.
 
@@ -29,8 +27,6 @@ Desenvolvo aplicações **Full Stack e Back-End** orientadas à resolução de p
 - 🎯 **Foco atual:** Arquitetura limpa, segurança de aplicações (autenticação, RBAC, 2FA) e código sustentável em produção.
 
 <br clear="both" />
-
----
 
 <h2 align="center">🤝 Contato</h2>
 
@@ -49,15 +45,11 @@ Desenvolvo aplicações **Full Stack e Back-End** orientadas à resolução de p
   </a>
 </p>
 
----
-
 <h2 align="center">💻 Stack Tecnológica</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,react,nextjs,tailwind,vite,nodejs,express,fastapi,prisma,postgres,mysql,redis,docker,nginx,git&perline=10&theme=dark" alt="Stack Tecnológica" />
 </p>
-
----
 
 <h2 align="center">📌 Projetos em Destaque</h2>
 
@@ -68,13 +60,11 @@ Desenvolvo aplicações **Full Stack e Back-End** orientadas à resolução de p
 | [**desafio-back-end-valcann**](https://github.com/thuling/desafio-back-end-valcann) | Modelagem de banco de dados relacional e API REST com paginação e filtros | `Python` `FastAPI` `SQL` |
 | [**SystemXadrezJAVA**](https://github.com/thuling/SystemXadrezJAVA) | Sistema completo de xadrez aplicando Programação Orientada a Objetos e regras completas do jogo | `Java` `POO` |
 
----
-
 <h2 align="center">📊 Estatísticas no GitHub</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thuling&theme=github_dark" height="175" alt="Resumo do Perfil" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thuling&theme=github_dark" height="175" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thuling&theme=github_dark" width="48%" alt="Resumo do Perfil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thuling&theme=github_dark" width="48%" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
